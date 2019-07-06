@@ -1,0 +1,13 @@
+.nosotros {
+@extend .mesa;
+  padding: 6% 0 6%;
+}
+
+.nosotros__title {
+  color: $snow;
+  font-size: $xx-large;
+}
+
+.nosotros__title--emphasis {
+  font-weight: $bold;
+}

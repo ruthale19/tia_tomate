@@ -1,0 +1,15 @@
+.contact {
+  @extend .mesa;
+  padding: 5%;
+}
+
+
+.contact__title {
+  color: $snow;
+  font-size: $x-large;
+  padding-bottom: 3%;
+}
+
+.contact__title--emphasis {
+  @extend .mesa__title--emphasis;
+}

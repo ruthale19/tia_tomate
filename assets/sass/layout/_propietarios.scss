@@ -1,0 +1,26 @@
+.propietarios {
+  background-color: $snow;
+  width: 100vw;
+  padding: 5% 0 0;
+  text-align: center;
+}
+
+.about3, .about4 {
+  width: 35%;
+  height: 35%;
+}
+
+.text3, .text4 {
+  width: 45%;
+  color: $granite-gray;
+  text-align: left;
+  padding-bottom: 5%;
+  margin: 0 auto;
+}
+
+.text3__title, .text4__title {
+  font-size: $large;
+  font-weight: $bold;
+  padding: 5% 0 5%;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+.mesa {
+  background-color: $jelly-bean;
+  width: 100vw;
+  padding: 20% 0 20%;
+  text-align: center;
+}
+
+.mesa__title {
+  color: $white;
+  font-size: $x-large;
+  font-weight: $extra-light;
+}
+
+.mesa__title--emphasis {
+  font-weight: $bold;
+}

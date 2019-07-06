@@ -1,0 +1,17 @@
+.limache {
+  @extend .organico;
+  background-color: $snow;
+}
+
+.about2 {
+  @extend .about1;
+}
+
+.text2 {
+  @extend .text1;
+  color: $granite-gray;
+}
+
+.text2__title {
+  @extend .text1__title;
+}

@@ -1,0 +1,14 @@
+/* Buttons */
+.button {
+  padding: .3rem 6rem;
+  border-radius: 80px;
+  font-family: $raleway;
+  font-size: $large;
+  color: $granite-gray;
+}
+
+.button_default {
+  background-color: $snow;
+  border: 1px solid $snow;
+  margin-top: 1rem;
+  }
